@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SwlY0d5xiU4=",
+  "dgSpecHash": "OckG919Bt4w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\utsav\\OneDrive\\Desktop\\dot net prac\\PizzaStore\\PizzaStore.csproj",
+  "projectFilePath": "C:\\Users\\utsav\\OneDrive\\Desktop\\dot net prac\\minimalApi\\PizzaStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\utsav\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\utsav\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

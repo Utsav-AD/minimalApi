@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\utsav\\OneDrive\\Desktop\\dot net prac\\PizzaStore\\PizzaStore.csproj": {}
+    "C:\\Users\\utsav\\OneDrive\\Desktop\\dot net prac\\minimalApi\\PizzaStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\utsav\\OneDrive\\Desktop\\dot net prac\\PizzaStore\\PizzaStore.csproj": {
+    "C:\\Users\\utsav\\OneDrive\\Desktop\\dot net prac\\minimalApi\\PizzaStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\utsav\\OneDrive\\Desktop\\dot net prac\\PizzaStore\\PizzaStore.csproj",
+        "projectUniqueName": "C:\\Users\\utsav\\OneDrive\\Desktop\\dot net prac\\minimalApi\\PizzaStore.csproj",
         "projectName": "PizzaStore",
-        "projectPath": "C:\\Users\\utsav\\OneDrive\\Desktop\\dot net prac\\PizzaStore\\PizzaStore.csproj",
+        "projectPath": "C:\\Users\\utsav\\OneDrive\\Desktop\\dot net prac\\minimalApi\\PizzaStore.csproj",
         "packagesPath": "C:\\Users\\utsav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\utsav\\OneDrive\\Desktop\\dot net prac\\PizzaStore\\obj\\",
+        "outputPath": "C:\\Users\\utsav\\OneDrive\\Desktop\\dot net prac\\minimalApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
